@@ -18,5 +18,13 @@
   {
     "package": "gsisdecoder",
     "url": "https://github.com/nflverse/gsisdecoder"
+  },
+  {
+    "package": "ffscrapr",
+    "url": "https://github.com/dynastyprocess/ffscrapr"
+  },
+  {
+    "package": "espnscrapeR",
+    "url": "https://github.com/jthomasmock/espnscrapeR/"
   }
 ]
