@@ -1,0 +1,22 @@
+[
+  {
+    "package": "nflfastR",
+    "url": "https://github.com/nflverse/nflfastR"
+  },
+  {
+    "package" : "nflseedR",
+    "url" : "https://github.com/nflverse/nflseedR"
+  },
+  {
+    "package": "nfl4th",
+    "url": "https://github.com/nflverse/nfl4th"
+  },
+  {
+    "package": "fastrmodels",
+    "url": "https://github.com/nflverse/fastrmodels"
+  },
+  {
+    "package": "gsisdecoder",
+    "url": "https://github.com/nflverse/gsisdecoder"
+  }
+]
