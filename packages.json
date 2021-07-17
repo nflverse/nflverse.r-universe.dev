@@ -26,5 +26,8 @@
   {
     "package": "espnscrapeR",
     "url": "https://github.com/jthomasmock/espnscrapeR/"
-  }
+  },
+  {
+    "package": "nflloadr",
+    "url": "https://github.com/nflverse/nflloadr"
 ]
